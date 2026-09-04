@@ -63,7 +63,7 @@ This repository contains the complete workflow for **Week 1: Data Acquisition, C
 ## 🚀 How to Execute the Project
 
 1. Open **Google Colab** ([colab.research.google.com](https://colab.research.google.com)).
-2. Upload the `Week1_Data_Preparation_and_EDA.ipynb` file.
+2. Upload the `Week-1:Data Acquisition, Cleaning, and Exploratory Analysis.ipynb` file.
 3. Run all code cells sequentially (`Runtime` ➔ `Run all`).
 4. The notebook will automatically clean the dataset, generate and display 3 Seaborn visualizations, build the report, and trigger downloads for both `.docx` and `.pdf` files.
 
