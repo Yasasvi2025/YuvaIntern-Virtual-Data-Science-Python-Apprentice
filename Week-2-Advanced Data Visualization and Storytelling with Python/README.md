@@ -56,6 +56,6 @@ The project incorporates feature engineering (family sizing, fare binning) and 5
 ## 🚀 How to Run the Notebook
 
 1. Open **Google Colab** ([colab.research.google.com](https://colab.research.google.com)).
-2. Upload `Week2_Advanced_Data_Visualization.ipynb`.
+2. Upload `Week-2:Advanced Data Visualization and Storytelling with Python.ipynb`.
 3. Run all code cells (`Runtime` ➔ `Run all`).
 4. The notebook will display all 5 graphs directly in the execution output and automatically download the compiled `.docx` and `.pdf` reports to your device.
