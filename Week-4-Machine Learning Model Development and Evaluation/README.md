@@ -112,9 +112,11 @@ All models were evaluated on an independent 20% holdout test dataset (179 instan
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+# Clone using standard HTTPS URL format (spaces replaced with %20)
+git clone https://github.com/Yasasvi2025/Week-4-Machine%20Learning%20Model%20Development%20and%20Evaluation.git
 
+# Navigate into the cloned directory (quoted to handle spaces)
+cd "Week-4-Machine Learning Model Development and Evaluation"
 ```
 
 
