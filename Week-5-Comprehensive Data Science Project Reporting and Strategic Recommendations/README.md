@@ -109,10 +109,10 @@ All candidate models were evaluated on an independent 20% stratified holdout tes
 1. **Clone the Repository:**
 ```bash
 # Clone using standard HTTPS URL format
-git clone https://github.com/your-username/Week-5-Comprehensive-Data-Science-Project-Reporting.git
+git clone https://github.com/Yasasvi2025/Week-5-Comprehensive-Data-Science-Project-Reporting-and-Strategic-Recommendations.git
 
 # Navigate into the cloned directory
-cd Week-5-Comprehensive-Data-Science-Project-Reporting
+cd Week-5-Comprehensive-Data-Science-Project-Reporting-and-Strategic-Recommendations
 ```
 
 
